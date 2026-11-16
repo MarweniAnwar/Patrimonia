@@ -11,6 +11,7 @@ const List<Lieu> lieux = [
         "ses gradins majestueux et son architecture exceptionnelle, "
         "ce monument témoigne de la grandeur de la civilisation romaine. "
         "Une visite incontournable pour les passionnés d'histoire et de culture.",
+    image: 'assets/images/el_jem.jpg',
     latitude: 35.2964,
     longitude: 10.7068,
   ),
@@ -26,6 +27,7 @@ const List<Lieu> lieux = [
         "historiques, des thermes, des villas antiques et des ports anciens. "
         "Classée au patrimoine mondial de l'UNESCO, Carthage offre un véritable "
         "voyage à travers les siècles, entre histoire, architecture et paysages magnifiques.",
+    image: 'assets/images/carthage.jpg',
     latitude: 36.8528,
     longitude: 10.3233,
   ),
@@ -41,6 +43,7 @@ const List<Lieu> lieux = [
         "ses mosquées historiques, ses palais traditionnels et ses magnifiques "
         "portes sculptées. Un endroit idéal pour découvrir l'artisanat tunisien, "
         "goûter aux spécialités locales et vivre une expérience culturelle unique.",
+    image: 'assets/images/medina_tunis.jpg',
     latitude: 36.7992,
     longitude: 10.1710,
   ),
@@ -56,6 +59,7 @@ const List<Lieu> lieux = [
         "ses colonnes anciennes et son célèbre minaret. Véritable symbole "
         "du patrimoine islamique tunisien, elle représente un lieu exceptionnel "
         "pour découvrir l'histoire spirituelle et architecturale du pays.",
+    image: 'assets/images/kairouan.jpg',
     latitude: 35.6804,
     longitude: 10.1034,
   ),
@@ -71,6 +75,7 @@ const List<Lieu> lieux = [
         "et ses rues historiques. Classée au patrimoine mondial de l'UNESCO, "
         "Dougga est une destination idéale pour les amateurs d'histoire, "
         "de photographie et de découvertes culturelles.",
+    image: 'assets/images/dougga.jpg',
     latitude: 36.4228,
     longitude: 9.2203,
   ),
@@ -87,6 +92,7 @@ const List<Lieu> lieux = [
         "un ancien palais beylical, il vous propose un voyage passionnant "
         "à travers les différentes civilisations qui ont marqué l'histoire "
         "de la Tunisie.",
+    image: 'assets/images/bardo.jpg',
     latitude: 36.8092,
     longitude: 10.1344,
   ),
@@ -104,6 +110,7 @@ const List<Lieu> lieux = [
         "et son célèbre Nadhour, qui offre une vue magnifique sur la mer "
         "Méditerranée. Un lieu incontournable pour les amateurs d'histoire, "
         "de patrimoine et de beaux paysages.",
+    image: 'assets/images/ribat_monastir.jpg',
     latitude: 35.7770,
     longitude: 10.8262,
   ),
